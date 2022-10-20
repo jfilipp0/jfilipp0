@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Juan Filippo, Full stackm developer with experience in JAVA Spring and Angular projects.
+- 👀 I’m interested in become a Front end Developer and work more on 3d and Web projects
+- 🌱 I’m currently learning Three js and react three fiber
+- I’m looking to collaborate on any project that I could use what I currently learning
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/juanfilippo/) our send me a email on: jfilippo0@gmail.com
